@@ -1,5 +1,9 @@
 # cmatrix-py
 
+<p>
+  <img src="./assets/banner.png" alt="project banner" width="70%">
+</p>
+
 A terminal-based **"digital rain"** effect inspired by *The Matrix*, written in pure Python with `curses`. Zero third-party dependencies.
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
