@@ -28,7 +28,7 @@ A terminal-based **"digital rain"** effect inspired by *The Matrix*, written in 
 
 - **Python 3.8+**
 - A terminal with `curses` support:
-  - Linux / macOS — works out of the box
+  - Linux / macOS - works out of the box
   - Windows — use **Windows Terminal** (legacy `cmd.exe` is not supported)
 - For best visuals: a terminal with **256-color** support
 
@@ -98,10 +98,10 @@ python3 cmatrix.py -c blue -s 6 -f 45
 
 Each column on the screen is an independent `Column` object with its own:
 
-- **head position** — the leading bright character
-- **trail length** — how many characters fade behind the head
-- **speed** — how many frames to wait between steps
-- **character buffer** — a `dict` of `y → char`
+- **head position** - the leading bright character
+- **trail length** - how many characters fade behind the head
+- **speed** - how many frames to wait between steps
+- **character buffer** - a `dict` of `y → char`
 
 Every frame:
 
