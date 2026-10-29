@@ -20,7 +20,7 @@ A terminal-based **"digital rain"** effect inspired by *The Matrix*, written in 
 - Live controls: pause, adjust speed, exit
 - Color themes: green, red, blue, cyan, magenta, yellow, white
 - Auto-resizes with the terminal window
-- No dependencies — just Python and `curses`
+- No dependencies - just Python and `curses`
 
 ---
 
@@ -29,7 +29,7 @@ A terminal-based **"digital rain"** effect inspired by *The Matrix*, written in 
 - **Python 3.8+**
 - A terminal with `curses` support:
   - Linux / macOS - works out of the box
-  - Windows — use **Windows Terminal** (legacy `cmd.exe` is not supported)
+  - Windows - use **Windows Terminal** (legacy `cmd.exe` is not supported)
 - For best visuals: a terminal with **256-color** support
 
 ---
